@@ -1,4 +1,4 @@
-[branch1 b3d2652] new branch
+[branch1 8047d07]  new branch is add
  Committer: Ubuntu <ubuntu@ip-172-31-1-5.ap-south-1.compute.internal>
 Your name and email address were configured automatically based
 on your username and hostname. Please check that they are accurate.
@@ -12,4 +12,4 @@ After doing this, you may fix the identity used for this commit with:
 
     git commit --amend --reset-author
 
- 1 file changed, 16 insertions(+), 1 deletion(-)
+ 1 file changed, 2 insertions(+), 3 deletions(-)
