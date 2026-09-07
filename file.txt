@@ -1,4 +1,4 @@
-[main 7499d53]  second change
+[main da33961] this is second change
  Committer: Ubuntu <ubuntu@ip-172-31-1-5.ap-south-1.compute.internal>
 Your name and email address were configured automatically based
 on your username and hostname. Please check that they are accurate.
@@ -12,4 +12,4 @@ After doing this, you may fix the identity used for this commit with:
 
     git commit --amend --reset-author
 
- 1 file changed, 3 insertions(+), 1 deletion(-)
+ 1 file changed, 14 insertions(+), 2 deletions(-)
